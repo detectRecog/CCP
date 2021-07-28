@@ -1,0 +1,16 @@
+import config_mots.car_finetune_SE4C_crop3
+import config_mots.car_finetune_SE4C_mots3
+
+import config_mots.car_mots_pointtrackRec
+import config_mots.car_test_tracking_val
+import config_mots.car_test_tracking_testset
+
+import config_mots.person_finetune_SE4C_crop2
+import config_mots.person_finetune_SE4C_mots2
+
+import config_mots.person_mots_pointtrackRec
+import config_mots.person_test_tracking_val
+import config_mots.person_test_tracking_testset
+
+import config_mots.car_mots_ccpnet
+import config_mots.person_mots_ccpnet
